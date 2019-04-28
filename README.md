@@ -1,5 +1,6 @@
 # HaruHueyApis
-HaruHueyApis Test Back-end @ Submit
+HaruHueyApis Test Back-end @ Submit<br/>
+최근 업데이트로 인해 기존 코드는 사용되지 않습니다.
 
 ### 개발 환경 및 기술 스택
 
